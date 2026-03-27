@@ -30,7 +30,7 @@ function Footer() {
     </p>
 
     <p>
-      Crispin:{" "}
+      Gabriel Dibor:{" "}
       <a href="https://github.com/wtfcrispin" target="_blank" rel="noopener noreferrer">GitHub</a>
     </p>
 
