@@ -73,7 +73,7 @@ function Footer() {
   </div>
 
   <p style={{ marginTop: "24px", fontSize: "14px" }}>
-    © 2026 Ifeoma Okocha. All rights reserved.
+    © 2026 Ademola Yusuff Bolaji. All rights reserved.
   </p>
 </footer>
   );
