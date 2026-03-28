@@ -66,7 +66,7 @@ function Footer() {
     </p>
 
     <p>
-      <a href="https://github.com/DebbyIfy/planetary-capstone-template" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/BEEJAY2497/TS-Academy-Capstone-Project.git" target="_blank" rel="noopener noreferrer">
         Group Repository
       </a>
     </p>
