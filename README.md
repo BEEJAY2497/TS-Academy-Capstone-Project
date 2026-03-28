@@ -1,16 +1,16 @@
 # 🌍 TS Academy Capstone Project – Planetary Data Landing Page
 
-A responsive and visually engaging landing page built to present planetary data in a clean, structured, and interactive way. This project is an individual submission for the TS Academy Capstone program.
+This is a responsive and visually engaging landing page built to present planetary data in a clean, structured, and interactive way. This project is an individual submission for the TS Academy Capstone program.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Project Owner Live Demo
 
-🔗 [View Live Project](https://your-live-demo-link.com)
+🔗 [View Live Project](https://beejay2497.github.io/TS-Academy-Capstone-Project/)
 
 ---
 
-## 📂 GitHub Repository
+## 📂 Project Owner GitHub Repository
 
 🔗 [View Repository](https://github.com/BEEJAY2497/TS-Academy-Capstone-Project)
 
@@ -53,14 +53,14 @@ The built group template which was shared among us (group members) for the TS Ac
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Project Owner
 
 Beejay (Ademola Yusuff Bolaji)  
 🔗 [GitHub Profile](https://github.com/BEEJAY2497)
 
 ---
 
-## 📌 Notes 
+## 📌 Notes fo Project Owner 
 
 - This is an individual submission derived from a shared template.  
 - Additional UI enhancements and interactions were implemented individually to improve usability and design.  
